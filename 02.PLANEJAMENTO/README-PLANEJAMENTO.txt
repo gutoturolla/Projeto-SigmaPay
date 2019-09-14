@@ -1,0 +1,7 @@
+Essa pasta refere-se a parte de planejamento do projeto.
+
+Esta subdivida em todos os casos que fazem parte do planejamento.
+
+Para criar novas pastas, respeite a ordem numéria referenciada.
+
+Obrigado. 
