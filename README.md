@@ -4,6 +4,8 @@ Esse repositório visa garantir a Gestão de Configuração de Software do Proje
 
 Alunos no GRUPO:                            RA:
 
-Tiago Arrazi                                22.216.031-9             
+Tiago Arrazi                                22.216.031-9
+
 Pedro de Matos                              22.216.040-0
+
 Augusto Turolla (Gerente de Projeto)        22.216.044-2
