@@ -1,7 +1,0 @@
-Essa pasta refere-se a comparações entre os modelos e metódos de gerenciamento de projetos.
-
-São abordados no curso, MPS.BR, CMMI e PMBOK.
-
-SÃO PERMITIDOS APENAS ARQUIVOS NESSA PASTA.
-
-Obrigado.
