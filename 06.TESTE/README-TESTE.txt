@@ -1,7 +1,0 @@
-Essa pasta refere-se à documentação dos testes pós-planejamento.
-
-A documentação de plano de testes encontra-se dentro da secção 02.PLANEJAMENTO
-
-Para criar novas pastas, respeite a ordem numéria referenciada.
-
-Obrigado
