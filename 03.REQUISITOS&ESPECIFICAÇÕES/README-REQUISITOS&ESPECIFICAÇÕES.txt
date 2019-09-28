@@ -1,5 +1,0 @@
-Essa pasta refere-se a parte de requisitos, funcionais e não funcionais do projeto, e das especificações do mesmo.
-
-Para criar novas pastas, respeite a ordem numéria referenciada.
-
-Obrigado
